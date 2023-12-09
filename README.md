@@ -34,6 +34,18 @@
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedul3731&show_icons=true&locale=en&layout=compact" alt="sayedul3731" /></p>
 </div>
 
+## Some Working: 
+
+- 🔭 I’m currently working on **JavaScript & React.js**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **JavaScript, React.js, CSS & HTML**
+
+- 📫 How to reach me **mdsayedulhaque932@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sayedul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sayedul/" height="30" width="40" /></a>
