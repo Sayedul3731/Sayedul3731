@@ -38,7 +38,7 @@
    
 </div>
 
-
+<hr/>
 ## Some Activites: 
 
 - 🔭 I’m currently working on **JavaScript & React.js**
