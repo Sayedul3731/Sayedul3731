@@ -12,6 +12,8 @@
 
 ### Skills: JavaScript, React.js, CSS and HTML
 
+https://ibb.co/pZxX3QR
+
 - 🔭 I’m currently working on JavaScript and React.js. 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
