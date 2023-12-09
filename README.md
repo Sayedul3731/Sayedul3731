@@ -33,10 +33,15 @@
 </div>
 
 
-- 🔭 I’m currently working on JavaScript and React.js. 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about JavaScript, React.js, CSS and HTML
+- 🔭 I’m currently working on **JavaScript & React.js**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **JavaScript, React.js, CSS & HTML**
+
+- 📫 How to reach me **mdsayedulhaque932@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
 
 ## Connect with me:
 <p align="left">
