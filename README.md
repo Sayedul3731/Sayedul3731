@@ -10,6 +10,7 @@
 
 🌐 Whether it's optimizing performance, solving complex challenges, or collaborating with cross-functional teams, I am always ready to dive into the world of frontend development and contribute to building the digital landscapes of tomorrow.
 
+💻
 ## Skills:
 <div align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" margin-right='400px' width="40" height="40"/></a>
