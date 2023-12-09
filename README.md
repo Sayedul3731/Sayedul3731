@@ -29,7 +29,7 @@
  
 
 </p>
-
+## Current Stats :
 <div>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedul3731&show_icons=true&locale=en&layout=compact" alt="sayedul3731" /></p>
 
@@ -43,13 +43,6 @@
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about JavaScript, React.js, CSS and HTML
-
-## Stats :
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayedul3731) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayedul3731&show_icons=true&count_private=true) 
-
-## Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedul3731)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100080030528805) 
