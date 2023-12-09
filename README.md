@@ -12,7 +12,7 @@
 
 ### Skills: JavaScript, React.js, CSS and HTML
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on JavaScript and React.js. 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about JavaScript, React.js, CSS and HTML
