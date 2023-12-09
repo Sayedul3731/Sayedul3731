@@ -10,7 +10,8 @@
 
 🌐 Whether it's optimizing performance, solving complex challenges, or collaborating with cross-functional teams, I am always ready to dive into the world of frontend development and contribute to building the digital landscapes of tomorrow.
 
-Skills: JavaScript / REACT / HTML / CSS
+### Skills:
+JavaScript / REACT / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next.js 
