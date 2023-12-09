@@ -21,7 +21,7 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayedul3731) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayedul3731&show_icons=true&count_private=true) 
 
-## Used Language :
+## Used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedul3731)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social :
