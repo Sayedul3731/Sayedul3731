@@ -16,9 +16,9 @@ Skills: JavaScript / REACT / HTML / CSS
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about JavaScript, React.js, CSS and HTML
-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayedul3731&show_icons=true&count_private=true)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayedul3731)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayedul3731) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayedul3731&show_icons=true&count_private=true) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayedul3731)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100080030528805)  
@@ -29,8 +29,5 @@ Skills: JavaScript / REACT / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedul3731)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayedul3731&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayedul3731)  
 
 
