@@ -25,20 +25,16 @@
 
 ## Current Stats:
 <div>
-   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedul3731&show_icons=true&locale=en" alt="sayedul3731" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedul3731&" alt="sayedul3731" /></p>
-   
 </div>
 
 ## Used Languages:
 
 <div>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedul3731&show_icons=true&locale=en&layout=compact" alt="sayedul3731" /></p>
-   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedul3731&show_icons=true&locale=en&layout=compact" alt="sayedul3731" /></p>   
 </div>
 
-<hr/>
 ## Some Activites: 
 
 - 🔭 I’m currently working on **JavaScript & React.js**
