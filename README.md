@@ -1,8 +1,8 @@
 ![WEB DEVELOPER](https://i.ibb.co/yB0TFSb/Black-Modern-Personal-Linked-In-Banner-2.png)
 
 ### Hi there 👋, This is MD SAYEDUL HAQUE
-#### FRONT-END WEB DEVELOPER
-👋 Hello, I'm SAYEDUL , a passionate frontend web developer with expertise in crafting seamless user experiences. My toolkit includes the dynamic duo of JavaScript and React, allowing me to bring ideas to life and create interactive, responsive web applications.
+#### WEB DEVELOPER
+👋 Hello, I'm SAYEDUL , a passionate web developer with expertise in crafting seamless user experiences. My toolkit includes the dynamic duo of JavaScript and React, allowing me to bring ideas to life and create interactive, responsive web applications.
 
 💻 Armed with a solid foundation in HTML and CSS, I thrive on transforming designs into pixel-perfect, visually appealing websites. I have a keen eye for detail and a commitment to delivering high-quality, user-friendly interfaces.
 
