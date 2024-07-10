@@ -1,4 +1,4 @@
-![WEB DEVELOPER]([https://i.ibb.co/yB0TFSb/Black-Modern-Personal-Linked-In-Banner-2.png](https://i.ibb.co/DrkDVBQ/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png))
+![WEB DEVELOPER]((https://i.ibb.co/DrkDVBQ/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png))
 
 ### Hi there 👋, This is MD SAYEDUL HAQUE
 #### WEB DEVELOPER
