@@ -1,7 +1,7 @@
 ![WEB DEVELOPER](https://i.ibb.co/DrkDVBQ/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png)
 
-### Hi there 👋, This is MD SAYEDUL HAQUE
-#### FULL-STACK WEB DEVELOPER 
+# Hi there 👋, This is MD SAYEDUL HAQUE
+# FULL-STACK WEB DEVELOPER 
 ## Node.js | Nest.js | Express.js | Next.js | TypeORM | Mongoose | PostgreSQL | MongoDB | Tailwind
 👋 Hello, I'm SAYEDUL , a passionate web developer with expertise in crafting seamless user experiences. My toolkit includes the dynamic duo of JavaScript and React, allowing me to bring ideas to life and create interactive, responsive web applications.
 
